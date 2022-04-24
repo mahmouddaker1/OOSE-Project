@@ -16,18 +16,7 @@ menutype id <input type="text" name="mtid" /> <input type="image" src="download.
 
 <?php
 
-echo sha1("Ayman11978");
-echo "<br>";
-echo sha1("2");
-echo "<br>";
-echo md5("2");
-/*
-echo sha1("1_30pm122_3_2016");
-echo "<br>";
-echo sha1("2");
-echo "<br>";
-echo md5("2");
-*/
+
 include "mtfnc.php";
 session_start();
 if (!isset($_SESSION["email"]))
@@ -76,4 +65,3 @@ for ($i=0;$i<count($f);$i++)
 ?>
 <tr><td colspan="4" align="center"><a href="addmt.html">Add new menutype</a></td></tr>
 </table>
-This page requires Highl level Permissions
