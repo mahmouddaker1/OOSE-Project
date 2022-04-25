@@ -1,7 +1,0 @@
-1~OOSE~CS244
-2~calc~CS104
-3~IS~CS100
-4~ENG~CS201
-5~Discrete~CS202
-6~Business~cs897
-7~maths~CS123
