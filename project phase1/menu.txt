@@ -1,0 +1,4 @@
+1~create user
+2~delete course
+3~edit
+4~add course
